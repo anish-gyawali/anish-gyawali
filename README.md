@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Anish Gyawali</h1>
-<h3 align="center">A passionate full stack developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anish-gyawali&label=Profile%20views&color=0e75b6&style=flat" alt="anish-gyawali" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anish-gyawali" alt="anish-gyawali" /></a> </p>
+<h1 align="left">Hi 👋, I'm Anish Gyawali</h1>
+<h3 align="left">A passionate full stack developer.</h3>
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"/>
 
 - 🔭 I’m currently working on **.Net & Angular**
 
@@ -15,6 +12,9 @@
 
 - ⚡ Fun fact **I Enjoy To code......**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anish-gyawali&label=Profile%20views&color=0e75b6&style=flat" alt="anish-gyawali" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anish-gyawali" alt="anish-gyawali" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anish-gyawali7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anish-gyawali7" height="30" width="40" /></a>
