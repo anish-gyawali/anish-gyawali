@@ -2,9 +2,9 @@
 <h3 align="left">A passionate full stack developer.</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"/>
 
-- 🔭 I’m currently working on **.Net & Angular**
+- 🔭 I’m currently working on **.Net & React**
 
-- 🌱 I’m currently learning **React & JAVA**
+- 🌱 I’m currently learning **DevOps, JAVA & React Native**
 
 - 💬 Ask me about **.Net, React, Angular**
 
