@@ -2,15 +2,23 @@
 <h3 align="left">A passionate full stack developer.</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"/>
 
-- 🔭 I’m currently working on **.Net & React**
+- 🔭 I’m currently working on **.Net, ASP.NET, React & NextJs**
 
-- 🌱 I’m currently learning **DevOps, JAVA & React Native**
+- 🌱 I’m currently learning ** Python, ML & AI **
 
 - 💬 Ask me about **.Net, React, Angular**
 
 - 📫 How to reach me **anish.gyawali10@gmail.com**
 
 - ⚡ Fun fact **I Enjoy To code......**
+  
+## My npm Packages
+
+- 📦 [nepali](https://www.npmjs.com/package/nepali?activeTab=readme): A package that simplifies working with Nepali language and locale support in JavaScript.  
+  ![npm version](https://img.shields.io/npm/v/nepali) 
+- 📦 [nepali-icons](https://www.npmjs.com/package/nepali-icons?activeTab=readme): A collection of Nepali-themed icons for use in applications and websites.  
+  ![npm version](https://img.shields.io/npm/v/nepali-icons)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish-gyawali&label=Profile%20views&color=0e75b6&style=flat" alt="anish-gyawali" /> </p>
 
