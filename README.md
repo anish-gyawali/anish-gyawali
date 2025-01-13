@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **.Net, React, Angular**
 
-- 📫 How to reach me **anish.gyawali10@gmail.com**
+- 📫 How to reach me **anish.gyawali10@gmail.com** || [Anish Gyawali](https://www.anishgyawali.com.np/)
 
 - ⚡ Fun fact **I Enjoy To code......**
   
