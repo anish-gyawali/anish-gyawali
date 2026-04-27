@@ -34,8 +34,9 @@
 
 | | |
 |---|---|
-| **Company** | 🔷 [Billoratech](https://billoratech.com) — *Innovate. Elevate. Dominate.* |
-| **SaaS** | 📒 [Digital Khata Nepal](https://www.digitalkhatanepal.com) — accounting platform for Nepal |
+| **Company** | 🔷 [Billora Technologies](https://billoratech.com) — *Innovate. Elevate. Dominate.* |
+| **SaaS** | 🔷 [Digital Khata Nepal](https://www.digitalkhatanepal.com) — accounting platform for Nepal |
+| **Dev Infra** | 🔷 [Arthaa](https://docs.arthaa.dev/) — Payment Infrastructure for Nepal Developer |
 | **Stack** | `.NET` `ASP.NET Core` `React` `Next.js` `Vite` `React Native` `Python` `FastAPI` `Django` |
 | **Infra** | `AWS` `Azure` `IIS` `Windows Server` |
 | **Automation** | `Make` `n8n` `Pipedream` |
