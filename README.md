@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://billoratech.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Billoratech-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Billora_Technologies-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.digitalkhatanepal.com/" target="_blank">
     <img src="https://img.shields.io/badge/Digital_Khata_Nepal-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
