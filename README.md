@@ -115,17 +115,28 @@
 <table>
   <tr>
     <td>
+      <a href="https://www.npmjs.com/package/voryn-core"><b>voryn-core</b></a> — A change engine for JavaScript &amp; TypeScript objects. Think Git commits, but for object state.<br/>
+      <img src="https://img.shields.io/npm/v/voryn-core?style=flat-square&color=CB3837" />
+      <img src="https://img.shields.io/npm/dm/voryn-core?style=flat-square&color=58a6ff" />
+    </td>
+    <td>
       <a href="https://www.npmjs.com/package/nepali"><b>nepali</b></a> — Nepali language &amp; locale support for JavaScript<br/>
       <img src="https://img.shields.io/npm/v/nepali?style=flat-square&color=CB3837" />
       <img src="https://img.shields.io/npm/dm/nepali?style=flat-square&color=58a6ff" />
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://www.npmjs.com/package/nepali-icons"><b>nepali-icons</b></a> — Nepali-themed icon collection for web &amp; apps<br/>
       <img src="https://img.shields.io/npm/v/nepali-icons?style=flat-square&color=CB3837" />
       <img src="https://img.shields.io/npm/dm/nepali-icons?style=flat-square&color=58a6ff" />
     </td>
+    <td>
+      <a href="https://github.com/anish-gyawali/voryn"><b>Voryn</b></a> — Specification and reference implementation for portable object changesets
+    </td>
   </tr>
 </table>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=anish-gyawali&style=flat-square&color=58a6ff&label=profile+views" />
