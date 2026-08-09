@@ -110,7 +110,7 @@
 
 ## 📦 npm Packages
 
-> Open source tools for the Nepali developer community.
+> Open source tools for the developer community.
 
 <table>
   <tr>
