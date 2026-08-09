@@ -131,9 +131,6 @@
       <img src="https://img.shields.io/npm/v/nepali-icons?style=flat-square&color=CB3837" />
       <img src="https://img.shields.io/npm/dm/nepali-icons?style=flat-square&color=58a6ff" />
     </td>
-    <td>
-      <a href="https://github.com/anish-gyawali/voryn"><b>Voryn</b></a> — Specification and reference implementation for portable object changesets
-    </td>
   </tr>
 </table>
 
